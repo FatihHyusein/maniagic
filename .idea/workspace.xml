@@ -2,8 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0fab058-c575-4b8e-91f1-36f6b9542c96" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/failed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/passed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/ember-welcome-page/images/construction.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/.ember-cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/.eslintrc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/.watchmanconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/components/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/controllers/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/helpers/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/models/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/resolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/routes/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/routes/route-name.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/styles/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/templates/application.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/templates/components/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/templates/hello.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/templates/route-name.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/config/environment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/config/targets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/sample.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/sample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/sample.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/test-support.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/test-support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/test-support.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/tests.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/vendor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/vendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/vendor.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/crossdomain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/testem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/ember-cli-build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/public/crossdomain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/public/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/testem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/.eslintrc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/helpers/destroy-app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/helpers/module-for-acceptance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/helpers/resolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/helpers/start-app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/integration/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/test-helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/unit/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/unit/routes/route-name-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/vendor/.gitkeep" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mani/public/sample" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mani/.gitignore" afterPath="$PROJECT_DIR$/mani/.gitignore" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,95 +76,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hello.hbs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/hello.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mani/public/sample/app/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mani/public/sample/app/router.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ember-cli-build.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mani/public/sample/ember-cli-build.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/sample.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4284">
-              <caret line="252" column="25" lean-forward="false" selection-start-line="252" selection-start-column="16" selection-end-line="252" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="route-name.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mani/public/sample/app/routes/route-name.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mani/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testem.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mani/public/sample/testem.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.hbs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/application.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="340">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -165,7 +139,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/mani/public/sample/node_modules" />
+    <handled-path value="$PROJECT_DIR$/mani/public/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1928" />
@@ -222,15 +196,11 @@
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,6 +334,7 @@
       <workItem from="1498636722135" duration="4000" />
       <workItem from="1498636913422" duration="262000" />
       <workItem from="1498637281280" duration="252000" />
+      <workItem from="1498637661247" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="xxz">
       <created>1498636327156</created>
@@ -397,29 +368,29 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15849000" />
+    <option name="totallyTimeSpent" value="16234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-12" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18763326" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18763326" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -440,22 +411,8 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/sample.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4284">
-          <caret line="252" column="25" lean-forward="false" selection-start-line="252" selection-start-column="16" selection-end-line="252" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/routes/route-name.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/sample.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/routes/route-name.js" />
     <entry file="file://$PROJECT_DIR$/mani/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -464,74 +421,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/application.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/testem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/hello.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/ember-cli-build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/sample.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4284">
-          <caret line="252" column="25" lean-forward="false" selection-start-line="252" selection-start-column="16" selection-end-line="252" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/routes/route-name.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/application.hbs" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/testem.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/hello.hbs" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/app.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/router.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/ember-cli-build.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/sample.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/routes/route-name.js" />
     <entry file="file://$PROJECT_DIR$/mani/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -540,74 +437,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/application.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/testem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/hello.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/ember-cli-build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/sample.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4284">
-          <caret line="252" column="25" lean-forward="false" selection-start-line="252" selection-start-column="16" selection-end-line="252" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/routes/route-name.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/application.hbs" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/testem.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/hello.hbs" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/app.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/router.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/ember-cli-build.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/sample.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/routes/route-name.js" />
     <entry file="file://$PROJECT_DIR$/mani/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -616,124 +453,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/application.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/testem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/.watchmanconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/.ember-cli">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/public/crossdomain.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/models/.gitkeep">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/styles/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/testem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/vendor.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-291465">
-          <caret line="0" column="2323845" lean-forward="false" selection-start-line="0" selection-start-column="2323845" selection-end-line="0" selection-end-column="2323845" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/vendor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33966">
-          <caret line="65914" column="660" lean-forward="false" selection-start-line="65914" selection-start-column="660" selection-end-line="65914" selection-end-column="660" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/node_modules/ember-source/dist/ember-tests.prod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="77981" column="0" lean-forward="false" selection-start-line="77981" selection-start-column="0" selection-end-line="77981" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="11" lean-forward="false" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <marker date="1498576410297" expanded="true" signature="959:1001" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/application.hbs" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/testem.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/.travis.yml" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/.watchmanconfig" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/.editorconfig" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/.ember-cli" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/public/crossdomain.xml" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/models/.gitkeep" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/styles/app.css" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/testem.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/vendor.map" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/vendor.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/node_modules/ember-source/dist/ember-tests.prod.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/package.json" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/index.html" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/index.html" />
     <entry file="file://$PROJECT_DIR$/mani/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -750,21 +485,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/route-name.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/resolver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/route-name.hbs" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/resolver.js" />
     <entry file="file://$PROJECT_DIR$/mani/index.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -773,78 +495,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/hello.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/ember-cli-build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/sample.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4284">
-          <caret line="252" column="25" lean-forward="false" selection-start-line="252" selection-start-column="16" selection-end-line="252" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/application.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/routes/route-name.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/testem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/hello.hbs" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/app.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/router.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/ember-cli-build.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/sample.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/application.hbs" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/app/routes/route-name.js" />
+    <entry file="file://$PROJECT_DIR$/mani/public/sample/testem.js" />
     <entry file="file://$PROJECT_DIR$/mani/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
