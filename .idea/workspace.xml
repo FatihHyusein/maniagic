@@ -2,66 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0fab058-c575-4b8e-91f1-36f6b9542c96" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/failed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/passed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/ember-welcome-page/images/construction.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/.ember-cli" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/.eslintrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/.watchmanconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/components/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/controllers/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/helpers/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/models/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/resolver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/routes/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/routes/route-name.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/styles/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/templates/application.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/templates/components/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/templates/hello.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/app/templates/route-name.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/config/environment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/config/targets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/sample.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/sample.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/sample.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/test-support.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/test-support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/test-support.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/tests.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/vendor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/vendor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/assets/vendor.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/crossdomain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/testem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/dist/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/ember-cli-build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/public/crossdomain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/testem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/.eslintrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/helpers/destroy-app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/helpers/module-for-acceptance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/helpers/resolver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/helpers/start-app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/integration/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/test-helper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/unit/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/tests/unit/routes/route-name-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mani/public/vendor/.gitkeep" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mani/public/sample" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mani/index.phtml" afterPath="$PROJECT_DIR$/mani/index.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mani/public/dist/assets/sample.js" afterPath="$PROJECT_DIR$/mani/public/dist/assets/sample.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mani/public/dist/assets/sample.map" afterPath="$PROJECT_DIR$/mani/public/dist/assets/sample.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mani/public/dist/index.html" afterPath="$PROJECT_DIR$/mani/public/dist/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mani/public/dist/tests/index.html" afterPath="$PROJECT_DIR$/mani/public/dist/tests/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,11 +22,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mani/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mani/index.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mani/public/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -120,7 +86,6 @@
         <option value="$PROJECT_DIR$/mani/index.html" />
         <option value="$PROJECT_DIR$/mani/public/sample/app/templates/hello.hbs" />
         <option value="$PROJECT_DIR$/mani/public/sample/app/router.js" />
-        <option value="$PROJECT_DIR$/mani/index.phtml" />
         <option value="$PROJECT_DIR$/mani/public/sample/app/templates/route-name.hbs" />
         <option value="$PROJECT_DIR$/mani/.htaccess" />
         <option value="$PROJECT_DIR$/mani/public/sample/app/index.html" />
@@ -129,6 +94,8 @@
         <option value="&lt;1e6e332e-c810-4b52-b370-8159d0ba8c2f&gt;/mani/public/sample/dist/index.html" />
         <option value="$PROJECT_DIR$/mani/public/sample/testem.js" />
         <option value="$PROJECT_DIR$/mani/.gitignore" />
+        <option value="$PROJECT_DIR$/mani/index.phtml" />
+        <option value="$PROJECT_DIR$/mani/public/dist/index.html" />
       </list>
     </option>
   </component>
@@ -194,6 +161,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maniagic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maniagic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mani" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,7 +323,7 @@
       <workItem from="1498636722135" duration="4000" />
       <workItem from="1498636913422" duration="262000" />
       <workItem from="1498637281280" duration="252000" />
-      <workItem from="1498637661247" duration="349000" />
+      <workItem from="1498637661247" duration="574000" />
     </task>
     <task id="LOCAL-00001" summary="xxz">
       <created>1498636327156</created>
@@ -364,33 +353,40 @@
       <option name="project" value="LOCAL" />
       <updated>1498637401899</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="xxz">
+      <created>1498638034630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1498638034631</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16234000" />
+    <option name="totallyTimeSpent" value="16459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-12" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18763326" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18763326" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -411,7 +407,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mani/public/sample/dist/assets/sample.js" />
     <entry file="file://$PROJECT_DIR$/mani/public/sample/app/routes/route-name.js" />
     <entry file="file://$PROJECT_DIR$/mani/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -487,14 +482,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/route-name.hbs" />
     <entry file="file://$PROJECT_DIR$/mani/public/sample/app/resolver.js" />
-    <entry file="file://$PROJECT_DIR$/mani/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mani/public/sample/app/templates/hello.hbs" />
     <entry file="file://$PROJECT_DIR$/mani/public/sample/app/app.js" />
     <entry file="file://$PROJECT_DIR$/mani/public/sample/app/router.js" />
@@ -507,6 +494,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mani/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mani/public/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
           <folding />
         </state>
       </provider>
