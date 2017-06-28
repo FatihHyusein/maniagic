@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>TEST</title>
+</head>
+<body>
+<?php
+require('./vendor/autoload.php');
+use LightnCandy\LightnCandy;
+
+// Define the template
+$template = file_get_contents('./public/sample/app/templates/route-name.hbs');
+
+// Compile the template
+$php = LightnCandy::compile($template);
+$render = LightnCandy::prepare($php);
+
+// Define the data
+$data = array('foo' => 'world');
+
+// Rendering the template
+echo $render($data);
+?>
+
+
+</body>
+</html>
+
